@@ -4,13 +4,13 @@
 Plugin Name:  YouTube oEmbed Add Custom Parameters
 Plugin URI:   https://github.com/yavisht/WordPress-YouTube-oEmbed-Additional-Parameters
 Description:  Add custom parameters to YouTube embeds in WordPress
-Version:      20160911
+Version:      1
 Author:       Yavisht Katgara
 Author URI:   http://www.ykat.com.au
 */
 
 /**
- * Filter a few parameters into YouTube oEmbed requests
+ * Add custom parameters to YouTube embeds in WordPress
  *
  * @link http://goo.gl/yl5D3
  */
